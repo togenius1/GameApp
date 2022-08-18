@@ -6,7 +6,7 @@ type Props = {};
 function GameOverScreen(props: Props) {
   return (
     <View>
-      <Text>GameOverScreen</Text>
+      <Text>Game is over!</Text>
     </View>
   );
 }
